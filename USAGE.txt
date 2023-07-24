@@ -1,0 +1,9 @@
+
+term_gfx [SHAPE] [ROTATION]
+
+-f specifies shape is an .obj model file to load
+-s specifies shape is a default shape of either "cube" or "pyramid"
+
+-x
+-y specifies rate of rotation of shape around each axis, i.e. if "-x 6" is provided it will take 6 frames for shape to do a full rotation around the x axis
+-z
